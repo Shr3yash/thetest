@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eSKIMo/static/css/main.073c9b0a.css",
+    "main.js": "/eSKIMo/static/js/main.425ab89e.js",
+    "static/js/787.26dff9a0.chunk.js": "/eSKIMo/static/js/787.26dff9a0.chunk.js",
+    "index.html": "/eSKIMo/index.html",
+    "main.073c9b0a.css.map": "/eSKIMo/static/css/main.073c9b0a.css.map",
+    "main.425ab89e.js.map": "/eSKIMo/static/js/main.425ab89e.js.map",
+    "787.26dff9a0.chunk.js.map": "/eSKIMo/static/js/787.26dff9a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.425ab89e.js"
+  ]
+}
