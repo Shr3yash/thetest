@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/eSKIMo/static/css/main.073c9b0a.css",
-    "main.js": "/eSKIMo/static/js/main.425ab89e.js",
-    "static/js/787.26dff9a0.chunk.js": "/eSKIMo/static/js/787.26dff9a0.chunk.js",
-    "index.html": "/eSKIMo/index.html",
-    "main.073c9b0a.css.map": "/eSKIMo/static/css/main.073c9b0a.css.map",
-    "main.425ab89e.js.map": "/eSKIMo/static/js/main.425ab89e.js.map",
-    "787.26dff9a0.chunk.js.map": "/eSKIMo/static/js/787.26dff9a0.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.425ab89e.js"
-  ]
+  "main.css": "/static/css/main.a181637e.chunk.css",
+  "main.js": "/static/js/main.a5cb982b.chunk.js",
+  "main.js.map": "/static/js/main.a5cb982b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a2c5e74b.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a2c5e74b.js.map",
+  "static/js/2.18feb4ae.chunk.js": "/static/js/2.18feb4ae.chunk.js",
+  "static/js/2.18feb4ae.chunk.js.map": "/static/js/2.18feb4ae.chunk.js.map",
+  "static/js/3.bfe9f187.chunk.js": "/static/js/3.bfe9f187.chunk.js",
+  "static/js/3.bfe9f187.chunk.js.map": "/static/js/3.bfe9f187.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.0721a715304d06be40203ec44f71f319.js": "/precache-manifest.0721a715304d06be40203ec44f71f319.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.a181637e.chunk.css.map": "/static/css/main.a181637e.chunk.css.map"
 }
